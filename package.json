@@ -1,0 +1,22 @@
+{
+  "name": "markscript-server",
+  "version": "0.1.0",
+  "description": "Server-side interfaces and utilities for MarkScript projects.",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "repository": "christyharagan/markscript-server",
+  "author": {
+    "name": "Christy Haragan",
+    "email": "christy.haragan.github@gmail.com",
+    "url": "https://github.com/christyharagan"
+  },
+  "keywords": [
+    "marklogic",
+    "javacript",
+    "typescript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "marklogic-typescript-definitions": "^0.3.0"
+  }
+}
